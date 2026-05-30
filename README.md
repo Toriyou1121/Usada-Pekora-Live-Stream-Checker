@@ -7,7 +7,8 @@ the **stream cover**, and her **character art** in the corner.
 
 > Unofficial fan-made tool. Not affiliated with Usada Pekora, hololive, or COVER Corp.
 
-<!-- Add a screenshot here, e.g.:  ![screenshot](docs/screenshot.png) -->
+<img width="2559" height="1440" alt="Interface" src="https://github.com/user-attachments/assets/e8ae54df-f8c2-4d96-950c-7ef6b70527ad" />
+
 
 ---
 
@@ -80,14 +81,14 @@ To build a release zip: **`package.bat`** (rebuilds, then bundles everything int
 | `◀ ▶` | Switch the cover image (also auto-rotates) |
 | a row's **watch / chat** | Open that stream / its live chat |
 
-### Custom pixel font (optional)
+### Custom pixel font
 The UI ships with the **DotGothic16** pixel font embedded. To use a different one
 (e.g. a Traditional-Chinese pixel font), drop a `pixel.ttf` next to `pekora_live.exe`
 — it overrides the built-in font automatically.
 
 ---
 
-## 🧩 How it works (brief)
+## 🧩 How it works
 
 Single C file, **Win32 + GDI**, no frameworks. It fetches the channel's *streams*
 page over HTTPS (WinINet, honoring the system proxy), pulls live/upcoming entries
@@ -105,5 +106,3 @@ to format schedule times in JST; the app converts to your timezone on demand.
   (see `DotGothic16-OFL.txt`).
 - Stream data, thumbnails, and character likeness belong to their respective owners
   (YouTube / COVER Corp / hololive). This is a non-commercial fan project.
-
-> Choose a license for your own code (e.g. MIT) and add a `LICENSE` file.
