@@ -7,6 +7,9 @@ dependencies; art and font are embedded in the executable.
 Unofficial, non-commercial fan project. Not affiliated with Usada Pekora,
 hololive, or COVER Corp.
 
+<img width="2559" height="1440" alt="Interface" src="https://github.com/user-attachments/assets/cab6e551-a8ee-4568-888f-4124076cab4e" />
+
+
 ## Requirements
 
 - Windows 10/11, 64-bit.
