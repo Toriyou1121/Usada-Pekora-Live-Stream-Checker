@@ -1,0 +1,4 @@
+/* Embedded resources (compiled into the .exe by windres). */
+101 RCDATA "pekora.png"      /* character art (replaceable) */
+200 RCDATA "pixelfont.ttf"   /* DotGothic16 pixel font (SIL OFL 1.1) */
+300 RCDATA "loading.gif"     /* running-Pekora loading animation (shown after Check) */
