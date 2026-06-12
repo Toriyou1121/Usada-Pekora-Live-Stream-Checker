@@ -11,7 +11,7 @@ hololive, or COVER Corp.
 Peko Board is the successor to Usada Pekora Live Stream Checker (v0.3.x).
 
 <!-- TODO: replace with an interface screenshot -->
-![Peko Board interface](screenshot.png)
+<img width="2559" height="1440" alt="Interface v0 4 0" src="https://github.com/user-attachments/assets/86cb2ce0-6388-4a67-b8e5-98726727d915" />
 
 ## What it does
 
